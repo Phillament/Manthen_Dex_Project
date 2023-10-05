@@ -1,0 +1,20 @@
+*{
+    background-color: #000921;
+    /* background-image: linear-gradient(to right,#191235,#28075E,#C1294C); */
+}
+
+.logo{
+    width: 58px;
+    height: 42px;
+    margin-left: 25%;
+    margin-top: 1.5%;
+}
+.div_inner{
+    margin: 1.5%;
+    margin-left: 3%;
+    margin-top: 3%;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17.5px;
+    color: #CBCBCB;
+}

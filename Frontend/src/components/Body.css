@@ -1,0 +1,19 @@
+button{
+    margin: 3%;
+    background-color: #06E7ED;
+    border-radius: 7px;
+    padding: 18px,24px,18px,24px;
+    width: 23%;
+    height: 62%;
+}
+
+.brand-name{
+    font-weight: 600;
+    line-height: 85px;
+    font-size: 68px;
+    color: white;
+}
+*{
+    background-color: #000921;
+    /* background-image: linear-gradient(to right,#191235,#28075E,#C1294C); */
+}
